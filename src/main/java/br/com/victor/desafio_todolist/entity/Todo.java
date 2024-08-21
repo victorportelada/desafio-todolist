@@ -25,8 +25,8 @@ public class Todo {
         return nome;
     }
 
-    public void setNoeme(String nome) {
-        this.nome = noeme;
+    public void setNome(String nome) {
+        this.nome = nome;
     }
 
     public String getDescricao() {
